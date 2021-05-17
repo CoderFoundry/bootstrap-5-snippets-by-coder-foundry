@@ -9,6 +9,12 @@ references added to the page for functionality.
 
 ---
 
+## Usage
+
+After installing the extension all snippets are activated using "bscf-*"
+
+---
+
 ## Features
 
 ### Template Frameworks
@@ -27,7 +33,7 @@ Base Template (CSS/JS references only)<br>
 ### Static Pages
 
 Landing Page<br>
-![Landing Page](/img/LandingPage.png)
+![Landing Page](/img/LandingPageDark.png)
 
 Login Form<br>
 ![Login Form](/img/LoginForm.png)
@@ -45,3 +51,8 @@ Accordions<br>
 Jumbotrons<br>
 ![Jumbotron](/img/Jumbotron.png)
 
+Modals<br>
+![Vertically Centered Large Modal](/img/ModalLargeCenter.png)
+
+Tables<br>
+![Dark Striped Table](/img/TableDarkStriped)
