@@ -59,4 +59,4 @@ Modals<br>
 ![Vertically Centered Large Modal](/img/ModalLargeCenter.png)
 
 Tables<br>
-![Dark Striped Table](/img/TableDarkStriped)
+![Dark Striped Table](/img/TableDarkStriped.png)
