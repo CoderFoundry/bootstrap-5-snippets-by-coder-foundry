@@ -7,6 +7,10 @@ page frameworks, and common Bootstrap elements all using Bootstrap 5.
 Full pages and template frameworks include the CSS/JS CDNs for Bootstrap 5. Individual elements will need CSS/JS
 references added to the page for functionality.
 
+All templates use on page CSS styling for positioning - we strongly recommend moving this to a separate CSS file.
+
+Images are hosted on Dropbox
+
 ---
 
 ## Usage
