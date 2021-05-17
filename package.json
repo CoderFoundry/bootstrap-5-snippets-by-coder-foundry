@@ -10,14 +10,13 @@
     },
     "icon": "img/cfmark.jpg",
     "engines": {
-        "vscode": "^1.56.0"
+        "vscode": "^1.53.1"
     },
     "categories": [
         "Snippets"
     ],
     "contributes": {
-        "snippets": [
-            {
+        "snippets": [{
                 "language": "html",
                 "path": "./snippets/templates.json"
             },
