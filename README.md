@@ -1,68 +1,47 @@
-# bootstrap-5-snippets-by-coder-foundry README
+![Coder Foundry Header](/img/CFHeader.png)
 
-This is the README for your extension "bootstrap-5-snippets-by-coder-foundry". After writing up a brief description, we recommend including the following sections.
+# Bootstrap 5 Code Snippets by Coder Foundry
+The staff at Coder Foundry have put together a snippet collection that includes precreated static pages,
+page frameworks, and common Bootstrap elements all using Bootstrap 5.
+
+Full pages and template frameworks include the CSS/JS CDNs for Bootstrap 5. Individual elements will need CSS/JS
+references added to the page for functionality.
+
+---
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+### Template Frameworks
 
-For example if there is an image subfolder under your extension project workspace:
+Top Nav<br>
+![Top Navigation](/img/TopNav.png)
 
-\!\[feature X\]\(images/feature-x.png\)
+Top Nav with Sticky Footer<br>
+![Sticky Footer](/img/StickyFooter.png)
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+Base Template (CSS/JS references only)<br>
+![Base Template](/img/BaseTemplate.png)
 
-## Requirements
+---
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+### Static Pages
 
-## Extension Settings
+Landing Page<br>
+![Landing Page](/img/LandingPage.png)
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+Login Form<br>
+![Login Form](/img/LoginForm.png)
 
-For example:
+---
 
-This extension contributes the following settings:
+### Bootstrap Elements
 
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
+Cards<br>
+![Kitchen Sink Card](/img/CardAll.png)
 
-## Known Issues
+Accordions<br>
+![Accordion](/img/Accordion.png)
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+Jumbotrons<br>
+![Jumbotron](/img/Jumbotron.png)
 
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
------------------------------------------------------------------------------------------------------------
-
-## Working with Markdown
-
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
-
-
-![Coder Foundry Header](/img/CFHeader.png)
