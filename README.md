@@ -1,4 +1,4 @@
-![Coder Foundry Header](/img/CFHeader.png)
+![Coder Foundry Header](https://github.com/CoderFoundry/bootstrap-5-snippets-by-coder-foundry/blob/master/img/CFHeader.png)
 
 # Bootstrap 5 Code Snippets by Coder Foundry
 The staff at Coder Foundry have put together a snippet collection that includes precreated static pages,
@@ -24,39 +24,39 @@ After installing the extension all snippets are activated using "bscf-*"
 ### Template Frameworks
 
 Top Nav<br>
-![Top Navigation](/img/TopNav.png)
+![Top Navigation](https://github.com/CoderFoundry/bootstrap-5-snippets-by-coder-foundry/blob/master/img/TopNav.png)
 
 Top Nav with Sticky Footer<br>
-![Sticky Footer](/img/StickyFooter.png)
+![Sticky Footer](https://github.com/CoderFoundry/bootstrap-5-snippets-by-coder-foundry/blob/master/img/StickyFooter.png)
 
 Base Template (CSS/JS references only)<br>
-![Base Template](/img/BaseTemplate.png)
+![Base Template](https://github.com/CoderFoundry/bootstrap-5-snippets-by-coder-foundry/blob/master/img/BaseTemplate.png)
 
 ---
 
 ### Static Pages
 
 Landing Page<br>
-![Landing Page](/img/LandingPageDark.png)
+![Landing Page](https://github.com/CoderFoundry/bootstrap-5-snippets-by-coder-foundry/blob/master/img/LandingPageDark.png)
 
 Login Form<br>
-![Login Form](/img/LoginForm.png)
+![Login Form](https://github.com/CoderFoundry/bootstrap-5-snippets-by-coder-foundry/blob/master/img/LoginForm.png)
 
 ---
 
 ### Bootstrap Elements
 
 Cards<br>
-![Kitchen Sink Card](/img/CardAll.png)
+![Kitchen Sink Card](https://github.com/CoderFoundry/bootstrap-5-snippets-by-coder-foundry/blob/master/img/CardAll.png)
 
 Accordions<br>
-![Accordion](/img/Accordion.png)
+![Accordion](https://github.com/CoderFoundry/bootstrap-5-snippets-by-coder-foundry/blob/master/img/Accordion.png)
 
 Jumbotrons<br>
-![Jumbotron](/img/Jumbotron.png)
+![Jumbotron](https://github.com/CoderFoundry/bootstrap-5-snippets-by-coder-foundry/blob/master/img/Jumbotron.png)
 
 Modals<br>
-![Vertically Centered Large Modal](/img/ModalLargeCenter.png)
+![Vertically Centered Large Modal](https://github.com/CoderFoundry/bootstrap-5-snippets-by-coder-foundry/blob/master/img/ModalLargeCenter.png)
 
 Tables<br>
-![Dark Striped Table](/img/TableDarkStriped.png)
+![Dark Striped Table](https://github.com/CoderFoundry/bootstrap-5-snippets-by-coder-foundry/blob/master/img/TableDarkStriped.png)
