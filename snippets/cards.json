@@ -1,0 +1,87 @@
+{
+    "Card": {
+        "prefix": "bscf-card",
+        "body": [
+            "<div class=\"card\">",
+            "    <div class=\"card-body\">",
+            "        <h5 class=\"card-title\">${1:Card Title}</h5>",
+            "        <p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's content.</p>",
+            "        <a href=\"#\" class=\"btn btn-primary\">Go somewhere</a>",
+            "    </div>",
+            "</div>"
+        ],
+        "description": "Creates basic Bootstrap card with title, body text, and button"
+    },
+    "Card-Image": {
+        "prefix": "bscf-card-image",
+        "body": [
+            "<div class=\"card\">",
+            "    <img src=\"https://www.dropbox.com/s/25lk5ur2qvxms7o/AppLandingPage.png?raw=1\" class=\"card-img-top\" alt=\"...\">",
+            "    <div class=\"card-body\">",
+            "        <h5 class=\"card-title\">${1:Card Title}</h5>",
+            "        <p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's content.</p>",
+            "        <a href=\"#\" class=\"btn btn-primary\">Go somewhere</a>",
+            "    </div>",
+            "</div>"
+        ],
+        "description": "Creates basic Bootstrap card with image cap, title, body text, and button"
+    },
+    "Card-Header": {
+        "prefix": "bscf-card-header",
+        "body": [
+            "<div class=\"card\">",
+            "    <h5 class=\"card-header\">${1:Header}</h5>",
+            "    <div class=\"card-body\">",
+            "        <h5 class=\"card-title\">Special title treatment</h5>",
+            "        <p class=\"card-text\">With supporting text below as a natural lead-in to additional content.</p>",
+            "        <a href=\"#\" class=\"btn btn-primary\">Go somewhere</a>",
+            "    </div>",
+            "</div>"
+        ],
+        "description": "Creates basic Bootstrap card with header, title, body text, and button"
+    },
+    "Card-All": {
+        "prefix": "bscf-card-all",
+        "body": [
+            "<div class=\"card\">",
+            "    <h5 class=\"card-header\">${1:Header}</h5>",
+            "    <img src=\"https://www.dropbox.com/s/25lk5ur2qvxms7o/AppLandingPage.png?raw=1\" class=\"card-img-top\" alt=\"...\">",
+            "    <div class=\"card-body\">",
+            "        <h5 class=\"card-title\">Special title treatment</h5>",
+            "        <p class=\"card-text\">With supporting text below as a natural lead-in to additional content.</p>",
+            "        <a href=\"#\" class=\"btn btn-primary\">Go somewhere</a>",
+            "    </div>",
+            "</div>"
+        ],
+        "description": "Creates basic Bootstrap card with header, image cap, title, body text, and button"
+    },
+    "Card-Shadow": {
+        "prefix": "bscf-card-shadow",
+        "body": [
+            "<div class=\"card shadow p-3 mb-5 bg-body rounded\">",
+            "    <div class=\"card-body\">",
+            "        <h5 class=\"card-title\">Card title</h5>",
+            "        <p class=\"card-text\">Some quick example text to build on the card title and make up the bulk",
+            "            of the card's content.</p>",
+            "        <a href=\"#\" class=\"btn btn-primary\">Go somewhere</a>",
+            "    </div>",
+            "</div>"
+        ],
+        "description": "Creates a drop shadow Bootstrap card with title, body text, and button"
+    },
+    "Card-Shadow-Image": {
+        "prefix": "bscf-card-shadow-image",
+        "body": [
+            "<div class=\"card shadow p-3 mb-5 bg-body rounded\">",
+            "    <img src=\"https://www.dropbox.com/s/25lk5ur2qvxms7o/AppLandingPage.png?raw=1\" class=\"card-img-top\" alt=\"...\">",
+            "    <div class=\"card-body\">",
+            "        <h5 class=\"card-title\">Card title</h5>",
+            "        <p class=\"card-text\">Some quick example text to build on the card title and make up the bulk",
+            "            of the card's content.</p>",
+            "        <a href=\"#\" class=\"btn btn-primary\">Go somewhere</a>",
+            "    </div>",
+            "</div>"
+        ],
+        "description": "Creates a drop shadow Bootstrap card with image cap, title, body text, and button"
+    }
+}

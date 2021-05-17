@@ -1,0 +1,116 @@
+{
+    "name": "bootstrap-5-snippets-by-coder-foundry",
+    "displayName": "Bootstrap 5 Snippets by Coder Foundry",
+    "description": "A collection of code snippets using Bootstrap 5 created by the staff at Coder Foundry",
+    "version": "1.0.0",
+    "publisher": "Coder Foundry",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ARussell-CF/bootstrap-5-snippets-by-coder-foundry"
+    },
+    "icon": "img/cfmark.jpg",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [{
+                "language": "html",
+                "path": "./snippets/templates.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/accordions.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/cards.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/jumbotrons.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/modals.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/tables.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/forms.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/landings.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/templates.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/accordions.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/cards.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/jumbotrons.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/modals.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/tables.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/forms.json"
+            }, {
+                "language": "javascript",
+                "path": "./snippets/landings.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/templates.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/accordions.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/cards.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jumbotrons.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/modals.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/tables.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/forms.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/landings.json"
+            }
+        ]
+    }
+}

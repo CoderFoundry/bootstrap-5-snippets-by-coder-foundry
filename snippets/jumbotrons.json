@@ -1,0 +1,42 @@
+{
+    "Jumbotron": {
+        "prefix": "bscf-jumbo",
+        "body": [
+            "<div class=\"mt-2 mb-4 bg-light rounded-3\">",
+            "    <div class=\"container-fluid py-5\">",
+            "        <h1 class=\"display-5 fw-bold\">${1:Header Text}</h1>",
+            "        <p class=\"col-md-8 fs-4\">Using a series of utilities, you can create this jumbotron, just like the one in previous versions of Bootstrap.</p>",
+            "        <button class=\"btn btn-primary btn-lg\" type=\"button\">Example button</button>",
+            "    </div>",
+            "</div>"
+        ],
+        "description": "Creates a Jumbotron component using Bootstrap 5 utilities"
+    },
+    "Jumbotron-Dark": {
+        "prefix": "bscf-jumbo-dark",
+        "body": [
+            "<div class=\"mt-2 mb-4 text-white bg-dark rounded-3\">",
+            "   <div class=\"container-fluid py-5\">",
+            "       <h1 class=\"display-5 fw-bold\">${1:Header Text}</h1>",
+            "       <p>Swap the background-color utility and add a `.text-*` color utility to mix up the jumbotron look.</p>",
+            "       <button class=\"btn btn-outline-light\" type=\"button\">Example button</button>",
+            "   </div>",
+            "</div>"
+        ],
+        "description": "Creates a dark theme Jumbotron component using Bootstrap 5 utilities"
+    },
+    "Jumbotron-Border": {
+        "prefix": "bscf-jumbo-border",
+        "body": [
+            "<div class=\"mt-2 mb-4 bg-light border border-secondary rounded-3\">",
+            "   <div class=\"container-fluid py-5\">",
+            "       <h1 class=\"display-5 fw-bold\">${1:Header Text}</h1>",
+            "       <p>Or, keep it light and add a border for some added definition to the boundaries of your content.",
+            "       </p>",
+            "       <button class=\"btn btn-outline-secondary\" type=\"button\">Example button</button>",
+            "   </div>",
+            "</div>"
+        ],
+        "description": "Creates a Jumbotron component with borders using Bootstrap 5 utilities"
+    }
+}
