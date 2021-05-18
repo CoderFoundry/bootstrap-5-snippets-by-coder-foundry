@@ -8,7 +8,7 @@
         "type": "git",
         "url": "https://github.com/ARussell-CF/bootstrap-5-snippets-by-coder-foundry"
     },
-    "icon": "img/cfmark.jpg",
+    "icon": "img/BootstrapCF.jpg",
     "engines": {
         "vscode": "^1.53.1"
     },
@@ -16,8 +16,7 @@
         "Snippets"
     ],
     "contributes": {
-        "snippets": [
-            {
+        "snippets": [{
                 "language": "html",
                 "path": "./snippets/templates.json"
             },

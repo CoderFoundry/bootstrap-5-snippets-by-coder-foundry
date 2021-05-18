@@ -1,4 +1,4 @@
-![Coder Foundry Header](https://github.com/ARussell-CF/bootstrap-5-snippets-by-coder-foundry/blob/master/img/CFHeader.png?raw=true)
+<a href="https://coderfoundry.com" target="_blank">![Coder Foundry Header](https://github.com/ARussell-CF/bootstrap-5-snippets-by-coder-foundry/blob/master/img/CFHeader.png?raw=true)</a>
 
 # Bootstrap 5 Code Snippets by Coder Foundry
 The staff at Coder Foundry have put together a snippet collection that includes precreated static pages,
@@ -10,6 +10,8 @@ references added to the page for functionality.
 All templates use on page CSS styling for positioning - we strongly recommend moving this to a separate CSS file.
 
 Images are hosted on Dropbox
+
+NOTE: This extension is also used in The Complete. NET Coding Bootcamp online course. To learn more go to <a href="https://learn.coderfoundry.com/" target="_blank">https://learn.coderfoundry.com/</a>
 
 ---
 
