@@ -8,10 +8,12 @@ All notable changes to the "bootstrap-5-snippets-by-coder-foundry" extension wil
 
 - Offcanvas elements
 - Table improvements
+- Stand alone nav bars
+- Horizontal cards
 
 ---
 
-## Initial release [2021-05-17]
+## Initial release [2021-05-17] version 1.0.0
 
 - Bootstrap version 5.0.0
 - Base template (CSS/JS references only)
@@ -25,3 +27,7 @@ All notable changes to the "bootstrap-5-snippets-by-coder-foundry" extension wil
 - Jumbotrons
 - Modals
 - Tables
+
+## Minor Corrections [2021-05-18] version 1.0.1 - 1.0.7
+
+- Multiple minor updates for file pathing and images

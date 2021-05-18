@@ -15,8 +15,8 @@
     "Card-Image": {
         "prefix": "bscf-card-image",
         "body": [
-            "<div class=\"card\">",
-            "    <img src=\"https://www.dropbox.com/s/25lk5ur2qvxms7o/AppLandingPage.png?raw=1\" class=\"card-img-top\" alt=\"...\">",
+            "<div class=\"card\" style=\"width:20rem;\">",
+            "    <img src=\"https://www.dropbox.com/s/5xp7sy21sqb6jm4/ImageCap.jpg?raw=1\" class=\"card-img-top\" alt=\"...\">",
             "    <div class=\"card-body\">",
             "        <h5 class=\"card-title\">${1:Card Title}</h5>",
             "        <p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's content.</p>",
@@ -43,9 +43,9 @@
     "Card-All": {
         "prefix": "bscf-card-all",
         "body": [
-            "<div class=\"card\">",
+            "<div class=\"card\" style=\"width:20rem;\">",
             "    <h5 class=\"card-header\">${1:Header}</h5>",
-            "    <img src=\"https://www.dropbox.com/s/25lk5ur2qvxms7o/AppLandingPage.png?raw=1\" class=\"card-img-top\" alt=\"...\">",
+            "    <img src=\"https://www.dropbox.com/s/5xp7sy21sqb6jm4/ImageCap.jpg?raw=1\" class=\"card-img-top\" alt=\"...\">",
             "    <div class=\"card-body\">",
             "        <h5 class=\"card-title\">Special title treatment</h5>",
             "        <p class=\"card-text\">With supporting text below as a natural lead-in to additional content.</p>",
@@ -72,8 +72,8 @@
     "Card-Shadow-Image": {
         "prefix": "bscf-card-shadow-image",
         "body": [
-            "<div class=\"card shadow p-3 mb-5 bg-body rounded\">",
-            "    <img src=\"https://www.dropbox.com/s/25lk5ur2qvxms7o/AppLandingPage.png?raw=1\" class=\"card-img-top\" alt=\"...\">",
+            "<div class=\"card shadow p-3 mb-5 bg-body rounded\" style=\"width:20rem;\">",
+            "    <img src=\"https://www.dropbox.com/s/5xp7sy21sqb6jm4/ImageCap.jpg?raw=1\" class=\"card-img-top\" alt=\"...\">",
             "    <div class=\"card-body\">",
             "        <h5 class=\"card-title\">Card title</h5>",
             "        <p class=\"card-text\">Some quick example text to build on the card title and make up the bulk",
