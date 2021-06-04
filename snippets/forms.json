@@ -2,6 +2,7 @@
     "Contact-Form": {
         "prefix": "bscf-contact-form",
         "body": [
+            "<h1 class=\"text-center mb-3\">Contact Me</h1>",
             "<form action=\"#\">",
             "    <div class=\"row mb-1\">",
             "        <div class=\"col\">",
@@ -41,7 +42,7 @@
             "                aria-label=\"Message\" required></textarea>",
             "        </div>",
             "    </div>",
-            "    <button type=\"submit\" class=\"btn btn-primary\">Submit</button>",
+            "    <button type=\"submit\" class=\"btn btn-primary mt-2\">Submit</button>",
             "</form>"
         ],
         "description": "Creates a contact form using Bootstrap classes. First and Last name, Email, Phone, Subject, and Message collected."
