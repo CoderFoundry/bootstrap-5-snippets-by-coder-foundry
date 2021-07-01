@@ -40,3 +40,7 @@ All notable changes to the "bootstrap-5-snippets-by-coder-foundry" extension wil
 
 - Added header to contact form
 - Added margin to submit button
+
+## Update to style on dark landing [2021-07-01] version 1.0.11
+
+- Changed height: 100vh to min-height: 100vh to maintain dark theme when zoomed in
