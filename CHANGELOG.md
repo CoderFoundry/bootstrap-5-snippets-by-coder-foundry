@@ -44,3 +44,8 @@ All notable changes to the "bootstrap-5-snippets-by-coder-foundry" extension wil
 ## Update to style on dark landing [2021-07-01] version 1.0.11
 
 - Changed height: 100vh to min-height: 100vh to maintain dark theme when zoomed in
+
+## Updating Bootstrap version [2021-07-09] version 1.1.0
+
+- Moving from 5.0.0 Boostrap to 5.0.2
+- Referencing Popper and Bootstrap instead of one JS call
