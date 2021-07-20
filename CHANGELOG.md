@@ -3,12 +3,12 @@
 All notable changes to the "bootstrap-5-snippets-by-coder-foundry" extension will be documented in this file.
 
 - Bootstrap version 5.0.0 (2021-05-17)
+- Bootstrap version 5.0.2 (2021-07-09)
 
 ## [Unreleased]
 
 - Offcanvas elements
 - Table improvements
-- Stand alone nav bars
 - Horizontal cards
 
 ---
