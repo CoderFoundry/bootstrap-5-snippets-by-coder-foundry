@@ -49,3 +49,10 @@ All notable changes to the "bootstrap-5-snippets-by-coder-foundry" extension wil
 
 - Moving from 5.0.0 Boostrap to 5.0.2
 - Referencing Popper and Bootstrap instead of one JS call
+
+## Resolved issue with SweetAlert2 integration and added stand alone navbar elements [2021-07-20] version 1.1.1
+
+- Added CSS to Sticky Footer/Sticky Footer Light to fix issue with footer placement when SweetAlert window active. Credit: <a href="https://elbie.me/" target="_blank" alt="Elbie Smith portfolio">Elbie Smith</a>: <a href="https://github.com/elbiesmith" target="_blank" alt="Elbie Smith GitHub">[elbiesmith]</a>
+- Added stand alone navbars in dark/light theme
+- Added stand alone navbar dropdown menu
+- Added stand alone navbar search form in dark/light theme
