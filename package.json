@@ -2,7 +2,7 @@
     "name": "bootstrap-5-snippets-by-coder-foundry",
     "displayName": "Bootstrap 5 Snippets by Coder Foundry",
     "description": "A collection of code snippets using Bootstrap 5 created by the staff at Coder Foundry",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "publisher": "CoderFoundry",
     "repository": {
         "type": "git",
