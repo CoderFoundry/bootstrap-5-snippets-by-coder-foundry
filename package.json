@@ -16,8 +16,7 @@
         "Snippets"
     ],
     "contributes": {
-        "snippets": [
-            {
+        "snippets": [{
                 "language": "html",
                 "path": "./snippets/templates.json"
             },
@@ -50,6 +49,10 @@
                 "path": "./snippets/landings.json"
             },
             {
+                "language": "html",
+                "path": "./snippets/navbars.json"
+            },
+            {
                 "language": "javascript",
                 "path": "./snippets/templates.json"
             },
@@ -82,6 +85,10 @@
                 "path": "./snippets/landings.json"
             },
             {
+                "language": "javascript",
+                "path": "./snippets/navbars.json"
+            },
+            {
                 "language": "javascriptreact",
                 "path": "./snippets/templates.json"
             },
@@ -112,6 +119,10 @@
             {
                 "language": "javascriptreact",
                 "path": "./snippets/landings.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/navbars.json"
             }
         ]
     }
