@@ -56,3 +56,5 @@ All notable changes to the "bootstrap-5-snippets-by-coder-foundry" extension wil
 - Added stand alone navbars in dark/light theme
 - Added stand alone navbar dropdown menu
 - Added stand alone navbar search form in dark/light theme
+
+## Resolved issue previous fix created with footer [2021-08-03]
