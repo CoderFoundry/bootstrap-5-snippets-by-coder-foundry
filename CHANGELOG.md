@@ -59,8 +59,10 @@ All notable changes to the "bootstrap-5-snippets-by-coder-foundry" extension wil
 
 ## Resolved issue previous fix created with footer [2021-08-03]
 
-## Updated Bootstrap reference to 5.1.0 and formatting fix in template.json [2021-08-27]
+## Updated Bootstrap reference to 5.1.0 and formatting fix in template.json [2021-08-27] version 1.1.2
 
 - Moved from Bootstrap 5.0.2 to 5.1.0
 - Referenced JS bundle instead of Bootstrap and Popper separately
 - Fixed formatting error in CSS for sticky-footer templates. Credit: Richard John: <a href="https://github.com/Richardjohn-dev" rel="noopener noreferrer" target="_blank" alt="Richard John GitHub">[Richardjohn-dev]</a>
+
+## Minor fix for mismatched class names [2021-08-30] version 1.1.3
