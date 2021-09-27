@@ -66,3 +66,5 @@ All notable changes to the "bootstrap-5-snippets-by-coder-foundry" extension wil
 - Fixed formatting error in CSS for sticky-footer templates. Credit: Richard John: <a href="https://github.com/Richardjohn-dev" rel="noopener noreferrer" target="_blank" alt="Richard John GitHub">[Richardjohn-dev]</a>
 
 ## Minor fix for mismatched class names [2021-08-30] version 1.1.3
+
+## Updated Bootstrap reference to 5.1.1 [2021-09-27] version 1.1.4
