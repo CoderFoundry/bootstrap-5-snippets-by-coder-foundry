@@ -68,3 +68,5 @@ All notable changes to the "bootstrap-5-snippets-by-coder-foundry" extension wil
 ## Minor fix for mismatched class names [2021-08-30] version 1.1.3
 
 ## Updated Bootstrap reference to 5.1.1 [2021-09-27] version 1.1.4
+
+## Updated Bootstrap reference to 5.2.1 [2022-09-28] version 1.1.5
